@@ -94,8 +94,8 @@ include "header.php";
           <h3 class="section-subheading text-muted">Reach out if you would like to hear more or get involved.</h3>
           <div class="card">
             <h1>Contact and Support</h1>
-            <p>Get a hold of us <a href="javascript:void(0)" onclick = "document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'">here</a></br>
-			...or check out our <a href="faqs.php">FAQ's</a></p>
+            <p>Call us at +1.614.266.5776,</br>
+            And check out our <a href="faqs.php">FAQs</a>.</p>
           </div>
         </div>
       </div>
