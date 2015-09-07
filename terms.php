@@ -10,7 +10,7 @@ include "header.php";
 <div id="main" class="container">
 	<h2>Terms of Use</h2>
 	<br>
-  <? include "termscontents.php"; ?>
+  <?php include "termscontents.php"; ?>
 </div>	
 <?php 
 include "footer.php"
